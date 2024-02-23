@@ -24,3 +24,21 @@
         <img align="right" alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-89b4fa?logo=linkedin"/>
     </a>
 </div>
+<br/>
+<details>
+    <summary><samp><b>More Info</b></samp></summary>
+    <hr/>
+    <p align="center">
+        <samp>
+            My Npm Top Packages
+        </samp>
+    </p>
+    <p align="center">
+        <a href="https://www.npmjs.com/package/hyper-statusbar?activeTab=versions">
+            <img src="https://img.shields.io/npm/dt/hyper-statusbar?style=flat&logo=npm&label=hyper-statusbar&labelColor=f38ba8&color=eba0ac"/>
+        </a>
+    </p>
+        
+    
+</details>
+
